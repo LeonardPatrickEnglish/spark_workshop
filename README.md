@@ -1,5 +1,7 @@
 # Practical PySpark Workshop 
 
+The files with **_README** are for viewing purpose. Use them out if you dont want to run the notebooks.
+
 
 #### Download Dataset
 Download the dataset (1.8 GB) from https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3.
